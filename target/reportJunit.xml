@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="91.447" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="To verify the adactin hotel web page" name="To verify the adactin hotel login page with valid credentails - Example #1.1" time="89.581">
+<system-out><![CDATA[
+Given User should be in the adactin login page..............................passed
+When User should enter the "vssanthosh1017" and "siva12345".................passed
+When User should click the login button.....................................passed
+When User should enter the "Brisbane","Hotel Creek","Deluxe","3 - Three"....passed
+When User should enter date "22/02/2020" and "22/03/2020"...................passed
+When User should select the "2 - Two" and "3 - Three".......................passed
+When User should click the search button....................................passed
+When User should click the radio button.....................................passed
+When User should click the continue button..................................passed
+When User should enter name "Prakash" and "Prakash".........................passed
+When User should enter th address "1/123weryioplkjgxz"......................passed
+When User should enter credit card type "1234567898765432"..................passed
+When User should enter card type "American Express".........................passed
+When User should enter valid date "February" and "2025".....................passed
+When User should enter cv number "1234".....................................passed
+When User should click book now button......................................passed
+Then User should verify sucessfull book the hotel...........................passed
+]]></system-out>
+</testcase>
+</testsuite>
